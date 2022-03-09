@@ -1,10 +1,15 @@
-# image_colorisation
+# create virtual environment
+python3 -m venv /path/to/new/virtual/environment
 
-Transform black and white images to colored.
-For video  explaination visit this link:- 
+# activate virtual environment
 
-Model Link: 
-https://eecs.berkeley.edu/~rich.zhang...​
+source virtual/environment
 
-Prototxt Link: 
-https://github.com/richzhang/coloriza...
+# install requirements
+
+pip install -r requirements.txt 
+
+
+# OS used : Ubuntu 
+
+# Note : set image path accordingly with the name
