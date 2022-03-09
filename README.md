@@ -12,4 +12,4 @@ pip install -r requirements.txt
 
 # OS used : Ubuntu 
 
-# Note : set image path accordingly with the name
+<h> Note </h> : set image path accordingly with the name
